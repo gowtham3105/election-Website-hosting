@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44ab93ea36798801fb9f56e9529e1feb",
+    "revision": "d0feacffc9d7506b8c1ed2fd6b5af7cb",
     "url": "/election-Website-hosting/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-Website-hosting/static/css/14.f82b5a60.chunk.css"
   },
   {
-    "revision": "32fa9e4479f07a56b492",
+    "revision": "4feda6965d9b03623414",
     "url": "/election-Website-hosting/static/css/main.016dbabd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/election-Website-hosting/static/js/14.572d44f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32fa9e4479f07a56b492",
-    "url": "/election-Website-hosting/static/js/main.c76c3201.chunk.js"
+    "revision": "4feda6965d9b03623414",
+    "url": "/election-Website-hosting/static/js/main.c9e170c9.chunk.js"
   },
   {
     "revision": "e205578fc84e65921890",
